@@ -3,6 +3,7 @@ package studentgrade;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+/* JUnit 4 */
 public class StudentGradeTest {
 
     @Test
